@@ -6,3 +6,9 @@
 // Checked that they were there! Alert if not. 
 // Use them
 
+// import 'dotenv/config'
+// console.log(process.env)
+
+console.log(process.env.PORT);
+console.log(process.env.USER_NAME);
+console.log(process.env.PASSWORD);
